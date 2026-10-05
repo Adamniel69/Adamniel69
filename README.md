@@ -12,4 +12,7 @@ Currently, I'm working on my university projects and exploring ideas for my Fina
 - MySQL
 - Git & GitHub
 
+### Contact
+
+
 I'm still learning and improving, so most of the projects here are part of that process. Feel free to take a look around!
